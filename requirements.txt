@@ -1,0 +1,7 @@
+fastapi[standard]
+uvicorn
+pydantic
+requests
+httpx
+python-dotenv
+pymupdf
