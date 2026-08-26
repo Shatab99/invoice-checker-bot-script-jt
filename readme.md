@@ -2,7 +2,7 @@
 
 ## Architecture
 
-![Architecture diagram](assests/arc.png)
+![Architecture diagram](assests/arc2.png)
 
 ## Result (Took 40.64 seconds to complete)
 
